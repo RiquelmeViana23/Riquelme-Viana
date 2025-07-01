@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Contato
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmeviana23@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmeviana23@gmail.com?subject=Olá!%20Encontrei%20seu%20GitHub&body=Quero%20falar%20sobre...)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riquelme-viana-a021732a7/)
 ---
 
