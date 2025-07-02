@@ -31,9 +31,10 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RiquelmeViana23&show_icons=true&theme=dracula"/>
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmeViana23&layout=compact&theme=dracula"/>
+</p>
 
 ---
 
